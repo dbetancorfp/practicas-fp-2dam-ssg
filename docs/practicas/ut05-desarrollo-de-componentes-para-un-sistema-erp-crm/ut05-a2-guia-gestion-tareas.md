@@ -1,8 +1,5 @@
 # UT05-A2 - Guía paso a paso: módulo "Gestión de Tareas" en Odoo 17
 
-<a class="md-button md-button--primary" href="ut05-a2-guia-gestion-tareas.pdf">&#x2B07; Descargar pr&aacute;ctica en PDF</a>
-
-
 # 1. Resultado de aprendizaje, contenido y criterios de evaluación
 
 ## Resultado de aprendizaje
@@ -37,7 +34,7 @@ Criterios de evaluación de RA5 según la programación didáctica. Su inclusió
 
 # 2. Agrupamiento
 
-La fuente no especifica el agrupamiento.
+Individual.
 
 # 3. Contexto
 
