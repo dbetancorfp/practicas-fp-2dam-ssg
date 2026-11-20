@@ -17,6 +17,12 @@
     - [UT03-A1 - Terceros, productos, servicios y almacen](practicas/ut03-realizacion-de-operaciones-de-gestion/ut03-a1-terceros-productos-servicios-y-almacen.md) · [Descargar PDF](practicas/ut03-realizacion-de-operaciones-de-gestion/ut03-a1-terceros-productos-servicios-y-almacen.pdf)
     - [UT03-A2 - Presupuestos y pedidos](practicas/ut03-realizacion-de-operaciones-de-gestion/ut03-a2-presupuestos-y-pedidos.md) · [Descargar PDF](practicas/ut03-realizacion-de-operaciones-de-gestion/ut03-a2-presupuestos-y-pedidos.pdf)
     - [UT03-A3 - Facturas y bancos](practicas/ut03-realizacion-de-operaciones-de-gestion/ut03-a3-facturas-y-bancos.md) · [Descargar PDF](practicas/ut03-realizacion-de-operaciones-de-gestion/ut03-a3-facturas-y-bancos.pdf)
+    
+
+
+??? abstract "UT04 - Consulta de la información de sistemas ERP-CRM · 1 actividad"
+
+	- [UT04-A1 - Exploracion de tablas, consultas y vistas en Odoo](practicas/ut04-consulta-de-la-informacion-e-implantacion-de-sistemas-ERP-CRM-en-una-empresa/ut04-a1- exploracion-de tablas-consultas-y-vistas-en-odoo.md) · [Descargar PDF](practicas/ut04-consulta-de-la-informacion-e-implantacion-de-sistemas-ERP-CRM-en-una-empresa/ut04-a1- exploracion-de tablas-consultas-y-vistas-en-odoo.pdf)
 
 ??? abstract "UT05 - Desarrollo de componentes para un sistema ERP-CRM · 2 actividades"
 
